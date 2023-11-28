@@ -1,6 +1,8 @@
 # Fish Prompt
 A simple custom Fish Prompt that uses [Rose Pine](https://rosepinetheme.com/) as a Color Palette.
 
+![A screenshot of a Kitty terminal, with this prompt](https://github.com/c4lopsitta/fish-prompt/blob/main/screenshots/terminal.png?raw=true)
+
 ## Installation
 1. Clone the repository
 ```sh
