@@ -3,6 +3,10 @@ A simple custom Fish Prompt that uses [Rose Pine](https://rosepinetheme.com/) as
 
 ![A screenshot of a Kitty terminal, with this prompt](https://github.com/c4lopsitta/fish-prompt/blob/main/screenshots/terminal.png?raw=true)
 
+## Requirements
+- A nerd font (for the icons)
+- [A terminal that supports RGB colors](https://github.com/termstandard/colors)
+
 ## Features
 - Shows the VIM mode by default, i'll add someday a way to remove this :)
 - Lots of ASCII escapes for colors
